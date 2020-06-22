@@ -1,0 +1,76 @@
+.wrapper{
+	width: 1200px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+header{
+	background: #7F56F5;
+}
+.logo{float: left;width: 20%;margin-top: 5px;}
+nav{
+    width: 80%;
+    float: right;
+}
+nav ul{
+    list-style-type: none;
+    float: right;
+}
+nav ul li{
+    display: inline;
+      padding: 5px 10px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+}
+.about{
+    text-align: center;
+    color: white;
+    padding: 80px;
+}
+.about h1{
+	font-size: 45px;
+	text-align: center;
+	text-transform: uppercase;
+}
+.about p{
+    font-size: 37px;
+}
+.column{
+    float: left;
+    width: 50%;
+}
+button {
+    border: none;
+    background: #7F56F5;
+    padding: 12px 20px;
+    color: white;
+}
+
+.col{
+    width: 25%;
+    float: left;
+}
+.col img{
+    padding: 8px 0px;
+}
+.col p{}
+
+.col h1 {
+    font-size: 20px;
+    color: #635d5d;
+}
+.col ul
+{
+    list-style-type: none;
+}
+.col ul li{}
+
+
+
+.footer {
+    background: aliceblue;
+    width: 100%;
+    padding-top: 10px;
+    margin-top: 100px;
+}
